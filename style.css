@@ -10,6 +10,13 @@ body {
 
 h1 {
     text-align: center;
-    margin-top: 250px;
-    font-size: 36px;
+    margin-top: 10rem;
+    font-size: 2rem;
+}
+
+img {
+    display: block;
+    margin-top: 2rem;
+    margin-left: auto;
+    margin-right: auto;
 }
